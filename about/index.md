@@ -9,10 +9,10 @@ Welcome to Jackpon GitBlog ！
 **附上联系方式：**
 
 
- - 邮箱：JackpongWong@163.com
- - 知乎：[欢迎一起来讨论][1]
- - GitHub：[Jackpon][2]
+ - 邮箱：gyqworld@outlook.com
+ - 知乎：[没得知乎基本不用][1]
+ - GitHub：[YigoGuo][2]
 
 
-  [1]: https://www.zhihu.com/people/Jackpon
-  [2]: https://github.com/Jackpon
+  [1]: https://www.Google.com
+  [2]: https://github.com/gyqworld
