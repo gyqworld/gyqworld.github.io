@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: http://jackpon.cn
+url: https://gyqworld.github.io
 baseurl:
 permalink: pretty
 
@@ -215,11 +215,11 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/Jackpon
+  GitHub: https://github.com/gyqworld
   ZhiHu: https://www.zhihu.com/people/Jackpon/activities
-  CSDN: https://blog.csdn.net/jackponwong
-  LeetCode: http://jackpon.cn/site/
-  404公益@宝贝回家: http://jackpon.cn/404.html
+  CSDN: https://blog.csdn.net/YigoGuo
+  LeetCode: http://baidu.com
+  404公益@宝贝回家: https://github.com/gyqworld/404.html
   
 # Social Links Icons
 # Icon Mapping:
@@ -231,16 +231,16 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  ZhiHu: joomla
-  CSDN: joomla
-  LeetCode: drupal
+  ZhiHu: YigoGuo
+  CSDN: YigoGuo
+  LeetCode: YigoGuo
   404公益@宝贝回家: child
   #Weibo: weibo
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/avatar.jpg
+avatar: /assets/images/avatar.png
 
 
 # Table Of Contents in the Sidebar
